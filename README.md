@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9ee30819-0c90-4c08-aeb1-31dba81e4aa2)# Uber-books-analysis
+# Uber-books-analysis
 
 # Objective
 
@@ -14,5 +14,4 @@
 
 6. How many miles do people usually book a cab for through Uber? 
 
-![Uploading image.png…]()
 
